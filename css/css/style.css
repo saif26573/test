@@ -1,0 +1,250 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
+
+
+/* Global CSS */
+
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+
+}
+
+h2 {
+
+
+}
+h3 {
+
+
+}
+
+p {
+	font-size: 15px;
+
+}
+
+
+/*navigation section start*/
+.menu {
+	background-color: white;
+	padding: 25px 0px;
+}
+.nav-link {
+	color: #161616;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 14px;
+    padding: 4px 11px!important;
+}
+/*Fusce at section start*/
+
+.hero {
+    background: url(../img/icrowdme-PSD---cssauthor.png) center top;
+    background-size: cover;
+}
+
+
+.col-md-12.tittle{
+        text-align: center;
+
+}
+
+
+.col-md-12.tittle h1{
+        text-align: center;
+        color:white;
+        margin-top: 270px;
+
+}
+
+.col-md-12.tittle p {
+    color: white;
+      
+}    
+
+.btn {
+    margin: 28px auto 56px;
+    background: #99c50a;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+
+/*Fusce at section End*/
+
+/*Work section start*/
+
+
+.WORKS{
+
+}
+
+.col-md-12.text {
+    text-align: center;
+    margin: 0px auto 50px;
+}
+
+
+.col-md-12.text h2 {
+    text-align: center;
+    margin: 50px;
+}
+
+
+.col-md-12.text p {
+    margin-bottom: 40px;
+    text-align: center;
+}
+/*Work section End*/
+
+.col-md-6.dis{
+
+    background-color: #e2f8ff
+}
+
+
+.btntw{
+    margin: 28px auto 56px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: #fff;
+    border-radius: 12px;
+}
+
+
+.on {
+    background: #e2f8ff;
+    padding: 50px;
+}
+
+.on img{
+    margin-top: 50px;
+}
+
+.tw{
+    background: #f5f9eb;
+    padding: 50px;
+
+}
+
+.tw img{
+    margin-top: 50px;
+}
+.btnon{
+    margin: 28px 0  56px 10px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+}
+
+.btntwo{
+    margin: 28px 0  56px 10px;
+    background: #add136;
+    padding: 8px 34px;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+}
+
+.bb p{
+    padding-top: 18px;
+    font-size: 17px;
+}
+.btntr {
+    border: none;
+    margin: 28px auto 56px;
+    padding: 15px 35px;
+    color: black;
+    border-radius: 12px;
+    background: none;
+    border: 1px solid black;
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    margin-top: 25px;
+}
+.card-text {
+    padding-bottom: 50px;
+    font-size: 13px;
+}
+
+.ppp{
+    font-size: 13px;
+}
+.oo {
+    margin-left: 173px;
+    margin-top: -35px;
+    font-size: 13px;
+}
+.underline {
+    border-top: 1px solid black;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.oi {
+    background: #26a6d1;
+    color: white;
+    width: 41%;
+    padding: 21px 0px;
+}
+.card-body a {
+    color: black;
+    margin-left: 91px;
+    margin-right: 4px;
+}
+
+
+.fa.fa-play {
+    color: #add136;
+}
+
+.ii{
+    margin-left: 80px;
+}
+
+.btntr0 {
+    border: none;
+    /* margin: 28px auto 56px; */
+    padding: 16px 26px;
+    color: #ffffff;
+    width: 64%;
+    margin-left: 40%;
+    margin-top: -85px;
+    border-radius: 12px;
+    /* background: none; */
+    background-color: #26a6d1;
+}
+
+.img-fluid {
+    margin-left: -37px;
+}
+
